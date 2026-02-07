@@ -58,13 +58,14 @@ point is VBO.
 <img width="738" height="334" alt="image" src="https://github.com/user-attachments/assets/c5e994af-ec27-40a9-987c-827bd9967e88" />
 
 # TABULATION  :
+<img width="1690" height="577" alt="{3534F027-3009-4F34-B895-2C1C7BF26982}" src="https://github.com/user-attachments/assets/c4be63b2-2aeb-4272-8054-0d6ce463704d" />
 
 
 # MODEL CALCULATION:
-
+32 34
 # FORMULA USED :
 Forward Resistance RF = ΔVF/ ΔIF (Ω) 
 Reverse Resistance RR = ΔVR/ ΔIR (Ω) 
 
 # RESULT :
-
+23ki
